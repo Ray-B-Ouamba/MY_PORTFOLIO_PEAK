@@ -22,6 +22,10 @@ Thank you for visiting, and I look forward to the opportunity to collaborate wit
 ## LESSONS LEARNED:
 how to resize the photos to the same dimensions so that my portfolio would look nice.
 
+## PROJECT USED:
+**1. BACKGROUND-COLOR-FOR-YOUR-YOUTUBE:** 
+https://ray-b-ouamba.github.io/DAZZLING-GALLERY-COLLECTION-WEBSITE/
+
 ## OTHER PROJECT:
 **BACKGROUND-COLOR-FOR-YOUR-YOUTUBE:** 
 https://ray-b-ouamba.github.io/SELECT-BACKGROUND-COLOR-FOR-YOUR-YOUTUBE-CHANNEL/
