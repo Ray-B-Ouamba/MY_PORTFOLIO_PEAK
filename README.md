@@ -23,17 +23,24 @@ Thank you for visiting, and I look forward to the opportunity to collaborate wit
 how to resize the photos to the same dimensions so that my portfolio would look nice.
 
 ## PROJECT USED:
+
 **1. DAZZLING-GALLERY-COLLECTION-WEBSITE:** 
 https://ray-b-ouamba.github.io/DAZZLING-GALLERY-COLLECTION-WEBSITE/
+
 **2.SWEETHEART-HAIR-SALON-WEBSITE :** 
 https://ray-b-ouamba.github.io/SWEETHEART-HAIR-SALON-WEBSITE/
+
 **3.DAILY-MOOD-MELDER-APP :** 
 https://ray-b-ouamba.github.io/DAILY-MOOD-MELDER-APP/
+
 **4.COMMERCIAL-CALCULATOR :** 
 https://ray-b-ouamba.github.io/COMMERCIAL-CALCULATOR/
-**5. :** 
+
+**5.BACKGROUND-COLOR-WAVE :** 
 https://ray-b-ouamba.github.io/BACKGROUND-COLOR-WAVE/
-**6. :** 
+
+**6.COFFEE-CULTURE-WITH-DYNAMIC-MENU-BACKGROUND-IMAGES :** 
+https://ray-b-ouamba.github.io/COFFEE-CULTURE-WITH-DYNAMIC-MENU-BACKGROUND-IMAGES/
 
 ## OTHER PROJECT:
 **BACKGROUND-COLOR-FOR-YOUR-YOUTUBE:** 
