@@ -1,4 +1,4 @@
-# MY_PORTFOLIO_PEAK    aaaaaaaaaaaaa
+# MY_PORTFOLIO_PEAK    aaaaaaaaaaaaaa
 
 Welcome to MY_PORTFOLIO_PEAK, where innovation meets implementation. As a seasoned software developer, I am passionate about crafting elegant solutions to complex problems. Within this portfolio, you'll find a showcase of my diverse skill set, spanning from front-end web development to robust backend systems.
 
