@@ -8,6 +8,7 @@ Whether it's building responsive websites, developing intuitive mobile applicati
 
 Thank you for visiting, and I look forward to the opportunity to collaborate with you on your next venture.
 
+
 **PROJECT LINK:** https://ray-b-ouamba.github.io/MY_PORTFOLIO_PEAK/
 
 ## HOW IT'S MADE:
@@ -18,11 +19,8 @@ Thank you for visiting, and I look forward to the opportunity to collaborate wit
 * SCSS
 * JAVASCRIPT
 
-## OPTIMIZATIONS
-We have designed our webpage so that a single click will cause the background color to change.  We would like our background to automatically change color every 20 seconds.
-
 ## LESSONS LEARNED:
-Understand the principles of JavaScript.
+how to resize the photos to the same dimensions so that my portfolio would look nice.
 
 ## OTHER PROJECT:
 **BACKGROUND-COLOR-FOR-YOUR-YOUTUBE:** 
