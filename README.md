@@ -8,7 +8,7 @@ Whether it's building responsive websites, developing intuitive mobile applicati
 
 Thank you for visiting, and I look forward to the opportunity to collaborate with you on your next venture.
 
-**PROJECT LINK:**  https://ray-b-ouamba.github.io/BACKGROUND-COLOR-CADENCE/
+**PROJECT LINK:** https://ray-b-ouamba.github.io/MY_PORTFOLIO_PEAK/
 
 ## HOW IT'S MADE:
 
