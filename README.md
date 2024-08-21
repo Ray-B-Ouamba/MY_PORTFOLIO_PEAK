@@ -1,4 +1,4 @@
-AS1
+ZAS1
 # MY_PORTFOLIO_PEAK   
 
 
