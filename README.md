@@ -1,4 +1,4 @@
-CXBA
+SCXBA
 # MY_PORTFOLIO_PEAK   
 
 
