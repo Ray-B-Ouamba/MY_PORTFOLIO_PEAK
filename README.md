@@ -1,4 +1,4 @@
-SZAAA
+
 # MY_PORTFOLIO_PEAK   
 
 
